@@ -2,6 +2,8 @@
 
 **Técnicas Procedimentais e Computação Gráfica na Criação de Conteúdo Digital**
 
+[![Image](https://i.imgur.com/WvzXB9B.jpeg)]()
+
 **Resumo**
 
 O objeto do presente estudo consiste em analisar as potencialidades da utilização de técnicas
