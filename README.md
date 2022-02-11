@@ -2,7 +2,7 @@
 
 **Técnicas Procedimentais e Computação Gráfica na Criação de Conteúdo Digital**
 
-[![Image](https://i.imgur.com/WvzXB9B.jpeg)]()
+[![Image](https://i.imgur.com/cDQx40c.jpeg)]
 
 **Resumo**
 
